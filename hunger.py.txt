@@ -7,3 +7,4 @@ else
 	thirsty=input{"are you thirsty"}
 if thirsty=="yed":
 print{drink water:}
+ branch adi is added
