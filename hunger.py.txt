@@ -5,5 +5,5 @@ if hungry=="yes":
 	print{"eat burger"}
 else
 	thirsty=input{"are you thirsty"}
-if thirsty=="yed":
+if thirsty=="yed": and hungry=="y":
 print{drink water:}
